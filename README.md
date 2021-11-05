@@ -1,4 +1,4 @@
-### Hi there 👋
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/breadyma?privacyEmail=true)](https://profile.intra.42.fr/users/breadyma)
 
 <!--
 **Veezys/Veezys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
