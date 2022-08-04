@@ -1,5 +1,4 @@
 
-![Codewars](https://www.codewars.com/users/Veezys/badges/large/?viewBox="0,0,495,40") <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veezys&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veezys&layout=&card_width=495&theme=radical)<br>
 <!--
